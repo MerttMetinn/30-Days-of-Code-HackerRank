@@ -9,7 +9,7 @@
 | 4 | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true) | The Problem cannot be solved with C |
 | 5 | [Problem](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%205/Day%205%20Loops%20.c) |<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
 | 6 | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%206/Day%206%20Let's%20Review.c) |<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
-| 7 | Problem | Solution |
+| 7 | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%207/Day%207%20Arrays.c) |<img src="https://img.uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
 | 8 | Problem | Solution |
 | 9 | Problem | Solution |
 | 10 | Problem | Solution |
