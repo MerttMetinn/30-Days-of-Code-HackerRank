@@ -11,7 +11,7 @@
 | 8 | Problem | I will solve later |
 | 9 | [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%209/Day%209%20Recursion%203.c) |<img src="https://uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
 | 10 | [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%2010/Day%2010%20Binary%20Numbers.c) |<img src="https://uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
-| 11 | Problem | Solution |
+| 11 | [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%2011/Day%2011%202D%20Arrays.c) |<img src="https://uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
 | 12 | Problem | Solution |
 | 13 | Problem | Solution |
 | 14 | Problem | Solution |
