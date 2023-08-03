@@ -1,3 +1,4 @@
+*Güncelleme :* **Bu repodaki soruların büyük çoğunluğunun C dilinde çözümü yapılamadığından çözümlerini ilerleyen zamanda paylaşacağım.**
 | Day | Problem | Solution | Status |
 |:--:|:--:|:--:|:--:|
 | 0 | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true) | [Solution](https://github.com/MerttMetinn/30-Days-of-Code-HackerRank/blob/main/Day%200/Day%200%20Hello%2C%20World.c) |<img src="https://uxwing.com/wp-content/themes/uxwing/download/checkmark-cross/confirm-icon.svg" width="30" height="30">|
